@@ -12,7 +12,7 @@ Essential Mode
 How to install
 --------------
 
-- Download and unzip the [emergency-master.zip](https://github.com/Jyben/emergency/archive/master.zip)
+- Download and unzip the [emergency-master.zip](https://github.com/WSIContractor/fivem_emergency/archive/v1.0.zip)
 - Rename the folder in emergency
 - Put the emergency folder into fivem-server/resources/
 - Add - emergency into your citmp-server.yml file
@@ -35,4 +35,5 @@ Screenshots
 -----------
 
 ![alt text](https://img15.hostingpics.net/pics/937779201705131826411.jpg)
-![alt text](https://img15.hostingpics.net/pics/351974201705131827033.jpg) ![alt text](https://img15.hostingpics.net/pics/516074201705131827031.jpg)
+![alt text](https://img15.hostingpics.net/pics/351974201705131827033.jpg)
+![alt text](https://img15.hostingpics.net/pics/516074201705131827031.jpg)
