@@ -12,12 +12,12 @@ Essential Mode
 How to install
 --------------
 
-- Download and unzip the [emergency-master.zip](https://github.com/WSIContractor/fivem_emergency/archive/v1.0.zip)
+- Download and unzip the [v1.0.zip](https://github.com/WSIContractor/fivem_emergency/archive/v1.0.zip)
 - Rename the folder in emergency
 - Put the emergency folder into fivem-server/resources/
 - Add - emergency into your citmp-server.yml file
 - Modify the sql file and execute it (here you have to specify your steamid)
-- You can also modifiy the language in the client (just modify the variable into cl_ files)
+- You can also modify the language in the client (just modify the variable into cl_ files)
 - (Don't forget to install Skin customization mod)
 - Before starting your server, please remove the content of the cache folder of your server
 - If you don't receive notifications, please disable lambda menu by updating your citmp-server.yml file : DisableScriptHook: true (thx to @Boubi)
